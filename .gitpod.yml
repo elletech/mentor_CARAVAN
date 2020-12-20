@@ -1,2 +1,5 @@
 ports:
   - port: 3000
+vscode:
+  extensions:
+    - wingrunr21.vscode-ruby@0.27.0:beIqQUhLRuJ5Vao4B2Lyng==
