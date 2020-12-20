@@ -73,4 +73,6 @@ Rails.application.configure do
 
   # Uncomment if you wish to allow Action Cable access from any origin.
   # config.action_cable.disable_request_forgery_protection = true
+
+  config.hosts << "3000-e69985c5-c7f2-4be9-a4d5-223de292c9d3.ws-us03.gitpod.io"
 end
